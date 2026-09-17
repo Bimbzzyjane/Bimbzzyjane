@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Janet
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full-stack dev on Udemy
-- 📫 How to reach me .. @Bimbzzyjane
-- ⚡ Fun fact: ... I'm a banker looking to switch to IT
+ #  Hi👋, I'm Janet Okedoyin
+
+- 💻 **Developer-in-training** passionate about building useful and user-friendly web applications.
+  
+- 👯 I’m looking to collaborate on open source and community driven projects
+ 
+- 🚀 I learn by building projects, breaking things down, and understanding how they work.
+
+### Let's Connect
+
+[GitHub](https://github.com/Bimbzzyjane) • [LinkedIn](www.linkedin.com/in/janet-okedoyin)
 
 <!---
 Bimbzzyjane/Bimbzzyjane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
