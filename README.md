@@ -1,6 +1,6 @@
  #  Hi👋, I'm Janet Okedoyin
 
-- 💻 **Developer-in-training** passionate about building useful and user-friendly web applications.
+- 💻 **Developer** passionate about building useful and user-friendly web applications.
   
 - 👯 I’m looking to collaborate on open source and community driven projects
  
